@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Teploff_ZP</string>
+    <string name="logo">Teploff_ZP</string>
+    <string name="kolvo_d">Введите количество отработанных дней</string>
+    <string name="kolvo_m">Введите сумму продаж</string>
+    <string name="ozon_y">Есть продажи на ОЗОН?</string>
+    <string name="ozon_p">Введите сумму продаж ОЗОН</string>
+    <string name="itog">Рассчитать денюжку</string>
+
+</resources>
