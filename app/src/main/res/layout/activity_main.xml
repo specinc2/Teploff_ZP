@@ -68,9 +68,11 @@
         android:layout_alignEnd="@+id/editTextNumber2"
         android:layout_marginStart="4dp"
         android:layout_marginTop="10dp"
-        android:layout_marginEnd="10dp"
+        android:layout_marginEnd="11dp"
+        android:checked="true"
         android:text="@string/ozon_y"
         android:textSize="25sp"
+        tools:checked="false"
         tools:ignore="UseSwitchCompatOrMaterialXml" />
 
     <TextView
